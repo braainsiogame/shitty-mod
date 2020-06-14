@@ -1,0 +1,6 @@
+name: "shitty-mod"
+displayName: "shitty mod" //what displays in the mod selection menu
+author: "iogame"
+description: "This place is where all of my shitty and dumb idea go to be made"
+version: "0.1"
+minGameVersion: "104"
