@@ -1,3 +1,9 @@
 # shitty-mod
-this is where my idea go to be make
-the sun
+hi
+# what the fuck is this?
+shitty mod
+# plan?
+sun
+nydus separator
+uhhhhhhhhhhhhhhhhhhhhhhhh
+nydus smelter
