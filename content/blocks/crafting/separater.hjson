@@ -1,0 +1,31 @@
+{
+    name: Separator
+    description: le nydus separator
+
+    size: 2
+
+    hasPower: true
+
+    requirements: [
+        copper/30
+        titanium/25
+    ]
+
+    consumes: {
+        power: 1
+        liquid: {
+            liquid: slag
+            amount: 0.07
+        }
+    }
+
+    results: [
+        copper/5
+        lead/3
+        graphite/2
+        titanium/2
+    ]
+
+    category: crafting
+    research: water-extractor
+}
